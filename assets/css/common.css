@@ -1,0 +1,87 @@
+/** common style sheet **/
+body {
+	margin: 0 auto;
+	width: 1020px;
+	font-family:Helvetica, sans-serif, "微軟正黑體";
+}
+
+header {
+	
+}
+
+nav {
+}
+
+footer { font-size: 10px; font-style:italic; float: left;}
+#container{}
+
+label.error {
+	color:#F00;
+	font-size:10px;
+}
+
+ul { list-style-type: none;  }
+li { display:inline;}
+
+input {
+	padding: 4px;
+	border: #777 1px solid;
+	-webkit-border-radius: 0px;
+	-moz-border-radius: 0px;
+	border-radius: 0px;
+}
+
+input[type="text"] {
+ 
+}
+
+input[type="image"] {
+
+}
+
+input[type="file"] {
+
+}
+
+input[type="submit"] {  
+	
+}
+
+input[type="button"] {
+
+}
+
+input[type="checkbox"] {  
+
+}
+
+
+img { 
+	border: none;
+}
+
+select {
+
+}
+
+textarea {
+	resize: none;
+}
+
+.left { text-align: left }
+.right { text-align: right }
+.center { text-align: center }
+
+.float_left { float: left }
+.float_right { float: right }
+
+.bold { font-weight:bold }
+.italic { font-style:italic }
+.underline { text-decoration:underline }
+
+.hidden { display:none }
+.hints{ font-size:14px; color:#333; font-style:italic; }
+.clickable{ text-decoration:underline; cursor:pointer; }
+
+
+

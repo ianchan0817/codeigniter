@@ -1,0 +1,20 @@
+/**** main/common.css ****/
+aside{
+	float: left;
+	width: 28%;
+	min-height: 100px;
+	margin-right: 5px;
+	border:solid #666 1px;
+	padding: 10px;
+}
+
+article {
+	float: right;
+	width: 68%;
+	min-height: 200px;
+	border:solid #666 1px;
+}
+
+section{
+	padding: 10px;
+}
